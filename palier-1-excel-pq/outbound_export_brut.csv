@@ -1,0 +1,20 @@
+Date,ID_Expedition,Destination,Transporteur,Unites,Statut
+2026-07-13,EXP-1001,Paris,DHL,1240,Livre
+2026-07-13,EXP-1002,Lyon ,dhl,980,Livre
+2026-07-13,EXP-1003,Marseille,Chronopost,1520,En cours
+2026-07-14,EXP-1004,Lille, DHL,760,Livre
+2026-07-14,EXP-1005,Bordeaux,UPS,1100,Retard
+2026-07-14,EXP-1006,Paris,chronopost,1340,Livre
+2026-07-15,EXP-1007,Nantes,ups ,890,Livre
+2026-07-15,EXP-1008,Toulouse,Colissimo,1420,En cours
+2026-07-15,EXP-1009,Lyon,DHL,1010,Livre
+2026-07-16,EXP-1010,Strasbourg,CHRONOPOST,670,Retard
+2026-07-16,EXP-1011,Marseille ,colissimo,1230,Livre
+2026-07-16,EXP-1012,Paris,UPS,1580,Livre
+2026-07-17,EXP-1013,Bordeaux,dhl,940,En cours
+2026-07-17,EXP-1014,Lille,Colissimo,1120,Livre
+2026-07-17,EXP-1015,Nantes,Chronopost,1290,Livre
+2026-07-17,EXP-1015,Nantes,Chronopost,1290,Livre
+2026-07-18,EXP-1016,Toulouse,ups,830,Retard
+2026-07-18,EXP-1017,Lyon,DHL,1450,Livre
+TOTAL,,,,20090,
